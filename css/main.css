@@ -1498,7 +1498,7 @@ input::-moz-focus-inner {
 }
 
 .header-email svg {
-  fill: #72a130;
+  fill: pink;
   height: 1.5rem;
   width: 1.5rem;
   margin-right: .4rem;
@@ -1517,7 +1517,7 @@ input::-moz-focus-inner {
   display: block;
   width: 0;
   height: 1px;
-  background-color: #72a130;
+  background-color: pink;
   transition: width 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   position: absolute;
   left: 0;
@@ -1818,7 +1818,7 @@ input::-moz-focus-inner {
   line-height: 2rem;
   text-transform: uppercase;
   letter-spacing: .3em;
-  color: #8dc63f;
+  color: pink;
   padding-left: .6rem;
   margin-top: 0;
   margin-bottom: .8rem;

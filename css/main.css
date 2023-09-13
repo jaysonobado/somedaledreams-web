@@ -1478,8 +1478,9 @@ input::-moz-focus-inner {
 }
 
 .header-logo img {
-  width: 140px;
-  height: 23px;
+  padding-top: 60px;;
+  width: 180px;
+  /* height: 23px; */
 }
 
 
@@ -1609,7 +1610,7 @@ input::-moz-focus-inner {
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-  background-image: url(../images/bg-static.jpg);
+  background-image: url(../images/bg1.jpg);
 }
 
 .s-intro--static::before {
